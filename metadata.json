@@ -1,0 +1,5 @@
+{
+  "name": "OmniTool - The Ultimate Utility Suite",
+  "description": "A professional, minimal utility website for AI-powered age estimation, system diagnostics, and productivity tools.",
+  "requestFramePermissions": ["camera"]
+}
